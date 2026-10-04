@@ -1,0 +1,9 @@
+classifieur,vrai,predit,n
+knn,normal,normal,427
+knn,normal,anomalie,6
+knn,anomalie,normal,6
+knn,anomalie,anomalie,442
+svm,normal,normal,430
+svm,normal,anomalie,3
+svm,anomalie,normal,10
+svm,anomalie,anomalie,438

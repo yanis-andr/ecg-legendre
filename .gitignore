@@ -1,0 +1,12 @@
+# Data: MIT-BIH (downloaded from PhysioNet by scripts/etude.py) and the project's own files
+data/
+matlab_check/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# System
+.DS_Store
